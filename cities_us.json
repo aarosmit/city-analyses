@@ -1,0 +1,2002 @@
+[
+  {
+    "rank": 1,
+    "name": "New York City",
+    "usps": "NY",
+    "pop2022": 8930002,
+    "pop2020": 8804190,
+    "growth": "0.0143",
+    "density": 29729,
+    "aland_sqmi": "300.3810"
+  },
+  {
+    "rank": 2,
+    "name": "Los Angeles",
+    "usps": "CA",
+    "pop2022": 3919973,
+    "pop2020": 3898747,
+    "growth": "0.0054",
+    "density": 8359,
+    "aland_sqmi": "468.9560"
+  },
+  {
+    "rank": 3,
+    "name": "Chicago",
+    "usps": "IL",
+    "pop2022": 2756546,
+    "pop2020": 2746388,
+    "growth": "0.0037",
+    "density": 12124,
+    "aland_sqmi": "227.3690"
+  },
+  {
+    "rank": 4,
+    "name": "Houston",
+    "usps": "TX",
+    "pop2022": 2345606,
+    "pop2020": 2304580,
+    "growth": "0.0178",
+    "density": 3664,
+    "aland_sqmi": "640.1940"
+  },
+  {
+    "rank": 5,
+    "name": "Phoenix",
+    "usps": "AZ",
+    "pop2022": 1640641,
+    "pop2020": 1608139,
+    "growth": "0.0202",
+    "density": 3169,
+    "aland_sqmi": "517.6730"
+  },
+  {
+    "rank": 6,
+    "name": "Philadelphia",
+    "usps": "PA",
+    "pop2022": 1619355,
+    "pop2020": 1603797,
+    "growth": "0.0097",
+    "density": 12060,
+    "aland_sqmi": "134.2790"
+  },
+  {
+    "rank": 7,
+    "name": "San Antonio",
+    "usps": "TX",
+    "pop2022": 1456069,
+    "pop2020": 1434625,
+    "growth": "0.0149",
+    "density": 3002,
+    "aland_sqmi": "485.1130"
+  },
+  {
+    "rank": 8,
+    "name": "San Diego",
+    "usps": "CA",
+    "pop2022": 1402838,
+    "pop2020": 1386932,
+    "growth": "0.0115",
+    "density": 4305,
+    "aland_sqmi": "325.8770"
+  },
+  {
+    "rank": 9,
+    "name": "Dallas",
+    "usps": "TX",
+    "pop2022": 1325691,
+    "pop2020": 1304379,
+    "growth": "0.0163",
+    "density": 3902,
+    "aland_sqmi": "339.7360"
+  },
+  {
+    "rank": 10,
+    "name": "San Jose",
+    "usps": "CA",
+    "pop2022": 1026700,
+    "pop2020": 1013240,
+    "growth": "0.0133",
+    "density": 5774,
+    "aland_sqmi": "177.8080"
+  },
+  {
+    "rank": 11,
+    "name": "Austin",
+    "usps": "TX",
+    "pop2022": 996147,
+    "pop2020": 961855,
+    "growth": "0.0357",
+    "density": 3114,
+    "aland_sqmi": "319.9390"
+  },
+  {
+    "rank": 12,
+    "name": "Jacksonville",
+    "usps": "FL",
+    "pop2022": 975177,
+    "pop2020": 949611,
+    "growth": "0.0269",
+    "density": 1305,
+    "aland_sqmi": "747.4670"
+  },
+  {
+    "rank": 13,
+    "name": "Fort Worth",
+    "usps": "TX",
+    "pop2022": 954457,
+    "pop2020": 918915,
+    "growth": "0.0387",
+    "density": 2762,
+    "aland_sqmi": "345.5840"
+  },
+  {
+    "rank": 14,
+    "name": "Columbus",
+    "usps": "OH",
+    "pop2022": 929492,
+    "pop2020": 905748,
+    "growth": "0.0262",
+    "density": 4240,
+    "aland_sqmi": "219.1970"
+  },
+  {
+    "rank": 15,
+    "name": "Charlotte",
+    "usps": "NC",
+    "pop2022": 903211,
+    "pop2020": 874579,
+    "growth": "0.0327",
+    "density": 2940,
+    "aland_sqmi": "307.2380"
+  },
+  {
+    "rank": 16,
+    "name": "Indianapolis",
+    "usps": "IN",
+    "pop2022": 901082,
+    "pop2020": 887642,
+    "growth": "0.0151",
+    "density": 2492,
+    "aland_sqmi": "361.5710"
+  },
+  {
+    "rank": 17,
+    "name": "San Francisco",
+    "usps": "CA",
+    "pop2022": 887711,
+    "pop2020": 873965,
+    "growth": "0.0157",
+    "density": 18927,
+    "aland_sqmi": "46.9030"
+  },
+  {
+    "rank": 18,
+    "name": "Seattle",
+    "usps": "WA",
+    "pop2022": 762687,
+    "pop2020": 737015,
+    "growth": "0.0348",
+    "density": 9095,
+    "aland_sqmi": "83.8620"
+  },
+  {
+    "rank": 19,
+    "name": "Denver",
+    "usps": "CO",
+    "pop2022": 738594,
+    "pop2020": 715522,
+    "growth": "0.0322",
+    "density": 4818,
+    "aland_sqmi": "153.2920"
+  },
+  {
+    "rank": 20,
+    "name": "Washington",
+    "usps": "DC",
+    "pop2022": 707109,
+    "pop2020": 689545,
+    "growth": "0.0255",
+    "density": 11566,
+    "aland_sqmi": "61.1360"
+  },
+  {
+    "rank": 21,
+    "name": "Nashville",
+    "usps": "TN",
+    "pop2022": 707091,
+    "pop2020": 689447,
+    "growth": "0.0256",
+    "density": 1487,
+    "aland_sqmi": "475.5430"
+  },
+  {
+    "rank": 22,
+    "name": "Oklahoma City",
+    "usps": "OK",
+    "pop2022": 701266,
+    "pop2020": 681054,
+    "growth": "0.0297",
+    "density": 1156,
+    "aland_sqmi": "606.4450"
+  },
+  {
+    "rank": 23,
+    "name": "Boston",
+    "usps": "MA",
+    "pop2022": 687257,
+    "pop2020": 675647,
+    "growth": "0.0172",
+    "density": 14217,
+    "aland_sqmi": "48.3390"
+  },
+  {
+    "rank": 24,
+    "name": "El Paso",
+    "usps": "TX",
+    "pop2022": 684753,
+    "pop2020": 678815,
+    "growth": "0.0087",
+    "density": 2660,
+    "aland_sqmi": "257.4200"
+  },
+  {
+    "rank": 25,
+    "name": "Portland",
+    "usps": "OR",
+    "pop2022": 666249,
+    "pop2020": 652503,
+    "growth": "0.0211",
+    "density": 4994,
+    "aland_sqmi": "133.4210"
+  },
+  {
+    "rank": 26,
+    "name": "Las Vegas",
+    "usps": "NV",
+    "pop2022": 653533,
+    "pop2020": 641903,
+    "growth": "0.0181",
+    "density": 4610,
+    "aland_sqmi": "141.7670"
+  },
+  {
+    "rank": 27,
+    "name": "Memphis",
+    "usps": "TN",
+    "pop2022": 630348,
+    "pop2020": 633104,
+    "growth": "-0.0044",
+    "density": 1986,
+    "aland_sqmi": "317.3570"
+  },
+  {
+    "rank": 28,
+    "name": "Detroit",
+    "usps": "MI",
+    "pop2022": 624177,
+    "pop2020": 639111,
+    "growth": "-0.0234",
+    "density": 4500,
+    "aland_sqmi": "138.7150"
+  },
+  {
+    "rank": 29,
+    "name": "Baltimore",
+    "usps": "MD",
+    "pop2022": 578658,
+    "pop2020": 585708,
+    "growth": "-0.0120",
+    "density": 7149,
+    "aland_sqmi": "80.9470"
+  },
+  {
+    "rank": 30,
+    "name": "Milwaukee",
+    "usps": "WI",
+    "pop2022": 573700,
+    "pop2020": 577222,
+    "growth": "-0.0061",
+    "density": 5965,
+    "aland_sqmi": "96.1840"
+  },
+  {
+    "rank": 31,
+    "name": "Albuquerque",
+    "usps": "NM",
+    "pop2022": 568301,
+    "pop2020": 564559,
+    "growth": "0.0066",
+    "density": 3036,
+    "aland_sqmi": "187.2150"
+  },
+  {
+    "rank": 32,
+    "name": "Fresno",
+    "usps": "CA",
+    "pop2022": 551595,
+    "pop2020": 542107,
+    "growth": "0.0175",
+    "density": 4808,
+    "aland_sqmi": "114.7250"
+  },
+  {
+    "rank": 33,
+    "name": "Tucson",
+    "usps": "AZ",
+    "pop2022": 547131,
+    "pop2020": 542629,
+    "growth": "0.0083",
+    "density": 2299,
+    "aland_sqmi": "238.0140"
+  },
+  {
+    "rank": 34,
+    "name": "Sacramento",
+    "usps": "CA",
+    "pop2022": 536635,
+    "pop2020": 524943,
+    "growth": "0.0223",
+    "density": 5491,
+    "aland_sqmi": "97.7300"
+  },
+  {
+    "rank": 35,
+    "name": "Kansas City",
+    "usps": "MO",
+    "pop2022": 517750,
+    "pop2020": 508090,
+    "growth": "0.0190",
+    "density": 1644,
+    "aland_sqmi": "314.8860"
+  },
+  {
+    "rank": 36,
+    "name": "Mesa",
+    "usps": "AZ",
+    "pop2022": 517302,
+    "pop2020": 504258,
+    "growth": "0.0259",
+    "density": 3746,
+    "aland_sqmi": "138.0850"
+  },
+  {
+    "rank": 37,
+    "name": "Atlanta",
+    "usps": "GA",
+    "pop2022": 514457,
+    "pop2020": 498715,
+    "growth": "0.0316",
+    "density": 3790,
+    "aland_sqmi": "135.7370"
+  },
+  {
+    "rank": 38,
+    "name": "Omaha",
+    "usps": "NE",
+    "pop2022": 501469,
+    "pop2020": 486051,
+    "growth": "0.0317",
+    "density": 3557,
+    "aland_sqmi": "140.9830"
+  },
+  {
+    "rank": 39,
+    "name": "Colorado Springs",
+    "usps": "CO",
+    "pop2022": 491467,
+    "pop2020": 478961,
+    "growth": "0.0261",
+    "density": 2520,
+    "aland_sqmi": 195
+  },
+  {
+    "rank": 40,
+    "name": "Raleigh",
+    "usps": "NC",
+    "pop2022": 480419,
+    "pop2020": 467665,
+    "growth": "0.0273",
+    "density": 3293,
+    "aland_sqmi": "145.8860"
+  },
+  {
+    "rank": 41,
+    "name": "Long Beach",
+    "usps": "CA",
+    "pop2022": 467638,
+    "pop2020": 466742,
+    "growth": "0.0019",
+    "density": 9224,
+    "aland_sqmi": "50.6960"
+  },
+  {
+    "rank": 42,
+    "name": "Virginia Beach",
+    "usps": "VA",
+    "pop2022": 463766,
+    "pop2020": 459470,
+    "growth": "0.0093",
+    "density": 1895,
+    "aland_sqmi": "244.7230"
+  },
+  {
+    "rank": 43,
+    "name": "Miami",
+    "usps": "FL",
+    "pop2022": 450797,
+    "pop2020": 442241,
+    "growth": "0.0193",
+    "density": 12524,
+    "aland_sqmi": "35.9960"
+  },
+  {
+    "rank": 44,
+    "name": "Oakland",
+    "usps": "CA",
+    "pop2022": 450630,
+    "pop2020": 440646,
+    "growth": "0.0227",
+    "density": 8062,
+    "aland_sqmi": "55.8930"
+  },
+  {
+    "rank": 45,
+    "name": "Minneapolis",
+    "usps": "MN",
+    "pop2022": 439430,
+    "pop2020": 429954,
+    "growth": "0.0220",
+    "density": 8138,
+    "aland_sqmi": 54
+  },
+  {
+    "rank": 46,
+    "name": "Tulsa",
+    "usps": "OK",
+    "pop2022": 417298,
+    "pop2020": 413066,
+    "growth": "0.0102",
+    "density": 2113,
+    "aland_sqmi": "197.4780"
+  },
+  {
+    "rank": 47,
+    "name": "Bakersfield",
+    "usps": "CA",
+    "pop2022": 414649,
+    "pop2020": 403455,
+    "growth": "0.0277",
+    "density": 2769,
+    "aland_sqmi": "149.7580"
+  },
+  {
+    "rank": 48,
+    "name": "Wichita",
+    "usps": "KS",
+    "pop2022": 400564,
+    "pop2020": 397532,
+    "growth": "0.0076",
+    "density": 2478,
+    "aland_sqmi": "161.6620"
+  },
+  {
+    "rank": 49,
+    "name": "Arlington",
+    "usps": "TX",
+    "pop2022": 400032,
+    "pop2020": 394266,
+    "growth": "0.0146",
+    "density": 4177,
+    "aland_sqmi": "95.7790"
+  },
+  {
+    "rank": 50,
+    "name": "Aurora",
+    "usps": "CO",
+    "pop2022": 398497,
+    "pop2020": 386261,
+    "growth": "0.0317",
+    "density": 2583,
+    "aland_sqmi": "154.2720"
+  },
+  {
+    "rank": 51,
+    "name": "Tampa",
+    "usps": "FL",
+    "pop2022": 394809,
+    "pop2020": 384959,
+    "growth": "0.0256",
+    "density": 3463,
+    "aland_sqmi": "114.0170"
+  },
+  {
+    "rank": 52,
+    "name": "New Orleans",
+    "usps": "LA",
+    "pop2022": 392031,
+    "pop2020": 383997,
+    "growth": "0.0209",
+    "density": 2314,
+    "aland_sqmi": "169.4340"
+  },
+  {
+    "rank": 53,
+    "name": "Cleveland",
+    "usps": "OH",
+    "pop2022": 367786,
+    "pop2020": 372624,
+    "growth": "-0.0130",
+    "density": 4734,
+    "aland_sqmi": "77.6940"
+  },
+  {
+    "rank": 54,
+    "name": "Honolulu",
+    "usps": "HI",
+    "pop2022": 353706,
+    "pop2020": 350964,
+    "growth": "0.0078",
+    "density": 5842,
+    "aland_sqmi": "60.5440"
+  },
+  {
+    "rank": 55,
+    "name": "Anaheim",
+    "usps": "CA",
+    "pop2022": 348936,
+    "pop2020": 346824,
+    "growth": "0.0061",
+    "density": 6934,
+    "aland_sqmi": "50.3200"
+  },
+  {
+    "rank": 56,
+    "name": "Louisville",
+    "usps": "KY",
+    "pop2022": 344794,
+    "pop2020": 386884,
+    "growth": "-0.1088",
+    "density": 1309,
+    "aland_sqmi": "263.4340"
+  },
+  {
+    "rank": 57,
+    "name": "Henderson",
+    "usps": "NV",
+    "pop2022": 329586,
+    "pop2020": 317610,
+    "growth": "0.0377",
+    "density": 3107,
+    "aland_sqmi": "106.0820"
+  },
+  {
+    "rank": 58,
+    "name": "Lexington",
+    "usps": "KY",
+    "pop2022": 327924,
+    "pop2020": 322570,
+    "growth": "0.0166",
+    "density": 1156,
+    "aland_sqmi": "283.6370"
+  },
+  {
+    "rank": 59,
+    "name": "Irvine",
+    "usps": "CA",
+    "pop2022": 326730,
+    "pop2020": 307670,
+    "growth": "0.0619",
+    "density": 4979,
+    "aland_sqmi": "65.6190"
+  },
+  {
+    "rank": 60,
+    "name": "Stockton",
+    "usps": "CA",
+    "pop2022": 326624,
+    "pop2020": 320804,
+    "growth": "0.0181",
+    "density": 5254,
+    "aland_sqmi": "62.1720"
+  },
+  {
+    "rank": 61,
+    "name": "Orlando",
+    "usps": "FL",
+    "pop2022": 321427,
+    "pop2020": 307573,
+    "growth": "0.0450",
+    "density": 2907,
+    "aland_sqmi": "110.5590"
+  },
+  {
+    "rank": 62,
+    "name": "Corpus Christi",
+    "usps": "TX",
+    "pop2022": 320393,
+    "pop2020": 317863,
+    "growth": "0.0080",
+    "density": 2006,
+    "aland_sqmi": "159.7030"
+  },
+  {
+    "rank": 63,
+    "name": "Newark",
+    "usps": "NJ",
+    "pop2022": 318431,
+    "pop2020": 311549,
+    "growth": "0.0221",
+    "density": 13189,
+    "aland_sqmi": "24.1440"
+  },
+  {
+    "rank": 64,
+    "name": "Riverside",
+    "usps": "CA",
+    "pop2022": 317224,
+    "pop2020": 314998,
+    "growth": "0.0071",
+    "density": 3904,
+    "aland_sqmi": "81.2580"
+  },
+  {
+    "rank": 65,
+    "name": "St. Paul",
+    "usps": "MN",
+    "pop2022": 316819,
+    "pop2020": 311527,
+    "growth": "0.0170",
+    "density": 6095,
+    "aland_sqmi": "51.9780"
+  },
+  {
+    "rank": 66,
+    "name": "Cincinnati",
+    "usps": "OH",
+    "pop2022": 311791,
+    "pop2020": 309317,
+    "growth": "0.0080",
+    "density": 4006,
+    "aland_sqmi": "77.8360"
+  },
+  {
+    "rank": 67,
+    "name": "San Juan",
+    "usps": "PR",
+    "pop2022": 311038,
+    "pop2020": 322854,
+    "growth": "-0.0366",
+    "density": 7868,
+    "aland_sqmi": "39.5330"
+  },
+  {
+    "rank": 68,
+    "name": "Santa Ana",
+    "usps": "CA",
+    "pop2022": 307367,
+    "pop2020": 310227,
+    "growth": "-0.0092",
+    "density": 11234,
+    "aland_sqmi": "27.3610"
+  },
+  {
+    "rank": 69,
+    "name": "Greensboro",
+    "usps": "NC",
+    "pop2022": 304909,
+    "pop2020": 299035,
+    "growth": "0.0196",
+    "density": 2362,
+    "aland_sqmi": "129.0680"
+  },
+  {
+    "rank": 70,
+    "name": "Pittsburgh",
+    "usps": "PA",
+    "pop2022": 302425,
+    "pop2020": 302971,
+    "growth": "-0.0018",
+    "density": 5461,
+    "aland_sqmi": "55.3760"
+  },
+  {
+    "rank": 71,
+    "name": "Jersey City",
+    "usps": "NJ",
+    "pop2022": 301419,
+    "pop2020": 292449,
+    "growth": "0.0307",
+    "density": 20444,
+    "aland_sqmi": "14.7440"
+  },
+  {
+    "rank": 72,
+    "name": "St. Louis",
+    "usps": "MO",
+    "pop2022": 298034,
+    "pop2020": 301578,
+    "growth": "-0.0118",
+    "density": 4827,
+    "aland_sqmi": "61.7440"
+  },
+  {
+    "rank": 73,
+    "name": "Lincoln",
+    "usps": "NE",
+    "pop2022": 297622,
+    "pop2020": 291082,
+    "growth": "0.0225",
+    "density": 3093,
+    "aland_sqmi": "96.2230"
+  },
+  {
+    "rank": 74,
+    "name": "Durham",
+    "usps": "NC",
+    "pop2022": 294542,
+    "pop2020": 283506,
+    "growth": "0.0389",
+    "density": 2625,
+    "aland_sqmi": "112.2210"
+  },
+  {
+    "rank": 75,
+    "name": "Anchorage",
+    "usps": "AK",
+    "pop2022": 291131,
+    "pop2020": 291247,
+    "growth": "-0.0004",
+    "density": 171,
+    "aland_sqmi": "1706.8000"
+  },
+  {
+    "rank": 76,
+    "name": "Plano",
+    "usps": "TX",
+    "pop2022": 290624,
+    "pop2020": 285494,
+    "growth": "0.0180",
+    "density": 4054,
+    "aland_sqmi": "71.6820"
+  },
+  {
+    "rank": 77,
+    "name": "Chandler",
+    "usps": "AZ",
+    "pop2022": 283959,
+    "pop2020": 275987,
+    "growth": "0.0289",
+    "density": 4360,
+    "aland_sqmi": "65.1240"
+  },
+  {
+    "rank": 78,
+    "name": "Chula Vista",
+    "usps": "CA",
+    "pop2022": 281801,
+    "pop2020": 275487,
+    "growth": "0.0229",
+    "density": 5677,
+    "aland_sqmi": "49.6410"
+  },
+  {
+    "rank": 79,
+    "name": "Buffalo",
+    "usps": "NY",
+    "pop2022": 281757,
+    "pop2020": 278349,
+    "growth": "0.0122",
+    "density": 6978,
+    "aland_sqmi": "40.3780"
+  },
+  {
+    "rank": 80,
+    "name": "Gilbert",
+    "usps": "AZ",
+    "pop2022": 279810,
+    "pop2020": 267918,
+    "growth": "0.0444",
+    "density": 4086,
+    "aland_sqmi": "68.4750"
+  },
+  {
+    "rank": 81,
+    "name": "Madison",
+    "usps": "WI",
+    "pop2022": 277166,
+    "pop2020": 269840,
+    "growth": "0.0271",
+    "density": 3493,
+    "aland_sqmi": "79.3390"
+  },
+  {
+    "rank": 82,
+    "name": "Reno",
+    "usps": "NV",
+    "pop2022": 271953,
+    "pop2020": 264165,
+    "growth": "0.0295",
+    "density": 2501,
+    "aland_sqmi": "108.7440"
+  },
+  {
+    "rank": 83,
+    "name": "North Las Vegas",
+    "usps": "NV",
+    "pop2022": 271641,
+    "pop2020": 262527,
+    "growth": "0.0347",
+    "density": 2771,
+    "aland_sqmi": "98.0150"
+  },
+  {
+    "rank": 84,
+    "name": "Toledo",
+    "usps": "OH",
+    "pop2022": 267603,
+    "pop2020": 270871,
+    "growth": "-0.0121",
+    "density": 3325,
+    "aland_sqmi": "80.4890"
+  },
+  {
+    "rank": 85,
+    "name": "Fort Wayne",
+    "usps": "IN",
+    "pop2022": 265926,
+    "pop2020": 263886,
+    "growth": "0.0077",
+    "density": 2404,
+    "aland_sqmi": "110.6360"
+  },
+  {
+    "rank": 86,
+    "name": "Irving",
+    "usps": "TX",
+    "pop2022": 264762,
+    "pop2020": 256684,
+    "growth": "0.0315",
+    "density": 3948,
+    "aland_sqmi": "67.0600"
+  },
+  {
+    "rank": 87,
+    "name": "Lubbock",
+    "usps": "TX",
+    "pop2022": 262655,
+    "pop2020": 257141,
+    "growth": "0.0214",
+    "density": 1950,
+    "aland_sqmi": "134.7230"
+  },
+  {
+    "rank": 88,
+    "name": "St. Petersburg",
+    "usps": "FL",
+    "pop2022": 261016,
+    "pop2020": 258308,
+    "growth": "0.0105",
+    "density": 4219,
+    "aland_sqmi": "61.8640"
+  },
+  {
+    "rank": 89,
+    "name": "Laredo",
+    "usps": "TX",
+    "pop2022": 259027,
+    "pop2020": 255205,
+    "growth": "0.0150",
+    "density": 2450,
+    "aland_sqmi": "105.7430"
+  },
+  {
+    "rank": 90,
+    "name": "Chesapeake",
+    "usps": "VA",
+    "pop2022": 254864,
+    "pop2020": 249422,
+    "growth": "0.0218",
+    "density": 753,
+    "aland_sqmi": "338.5100"
+  },
+  {
+    "rank": 91,
+    "name": "Winston-Salem",
+    "usps": "NC",
+    "pop2022": 253531,
+    "pop2020": 249545,
+    "growth": "0.0160",
+    "density": 1912,
+    "aland_sqmi": "132.6140"
+  },
+  {
+    "rank": 92,
+    "name": "Glendale",
+    "usps": "AZ",
+    "pop2022": 252645,
+    "pop2020": 248325,
+    "growth": "0.0174",
+    "density": 4102,
+    "aland_sqmi": "61.5920"
+  },
+  {
+    "rank": 93,
+    "name": "Garland",
+    "usps": "TX",
+    "pop2022": 249846,
+    "pop2020": 246018,
+    "growth": "0.0156",
+    "density": 4379,
+    "aland_sqmi": "57.0600"
+  },
+  {
+    "rank": 94,
+    "name": "Scottsdale",
+    "usps": "AZ",
+    "pop2022": 246157,
+    "pop2020": 241361,
+    "growth": "0.0199",
+    "density": 1338,
+    "aland_sqmi": "183.9870"
+  },
+  {
+    "rank": 95,
+    "name": "Arlington",
+    "usps": "VA",
+    "pop2022": 244847,
+    "pop2020": 238643,
+    "growth": "0.0260",
+    "density": 9418,
+    "aland_sqmi": "25.9970"
+  },
+  {
+    "rank": 96,
+    "name": "Enterprise",
+    "usps": "NV",
+    "pop2022": 244501,
+    "pop2020": 221831,
+    "growth": "0.1022",
+    "density": 4782,
+    "aland_sqmi": "51.1290"
+  },
+  {
+    "rank": 97,
+    "name": "Boise",
+    "usps": "ID",
+    "pop2022": 241686,
+    "pop2020": 235684,
+    "growth": "0.0255",
+    "density": 2888,
+    "aland_sqmi": "83.6740"
+  },
+  {
+    "rank": 98,
+    "name": "Santa Clarita",
+    "usps": "CA",
+    "pop2022": 239143,
+    "pop2020": 228673,
+    "growth": "0.0458",
+    "density": 3380,
+    "aland_sqmi": "70.7550"
+  },
+  {
+    "rank": 99,
+    "name": "Norfolk",
+    "usps": "VA",
+    "pop2022": 237045,
+    "pop2020": 238005,
+    "growth": "-0.0040",
+    "density": 4449,
+    "aland_sqmi": "53.2750"
+  },
+  {
+    "rank": 100,
+    "name": "Fremont",
+    "usps": "CA",
+    "pop2022": 233788,
+    "pop2020": 230504,
+    "growth": "0.0142",
+    "density": 3018,
+    "aland_sqmi": "77.4650"
+  },
+  {
+    "rank": 101,
+    "name": "Spokane",
+    "usps": "WA",
+    "pop2022": 233003,
+    "pop2020": 228989,
+    "growth": "0.0175",
+    "density": 3389,
+    "aland_sqmi": "68.7590"
+  },
+  {
+    "rank": 102,
+    "name": "Richmond",
+    "usps": "VA",
+    "pop2022": 231090,
+    "pop2020": 226610,
+    "growth": "0.0198",
+    "density": 3856,
+    "aland_sqmi": "59.9230"
+  },
+  {
+    "rank": 103,
+    "name": "Baton Rouge",
+    "usps": "LA",
+    "pop2022": 227066,
+    "pop2020": 227470,
+    "growth": "-0.0018",
+    "density": 2627,
+    "aland_sqmi": "86.4490"
+  },
+  {
+    "rank": 104,
+    "name": "San Bernardino",
+    "usps": "CA",
+    "pop2022": 224537,
+    "pop2020": 222101,
+    "growth": "0.0110",
+    "density": 3615,
+    "aland_sqmi": "62.1080"
+  },
+  {
+    "rank": 105,
+    "name": "Tacoma",
+    "usps": "WA",
+    "pop2022": 223536,
+    "pop2020": 219346,
+    "growth": "0.0191",
+    "density": 4492,
+    "aland_sqmi": "49.7590"
+  },
+  {
+    "rank": 106,
+    "name": "Spring Valley",
+    "usps": "NV",
+    "pop2022": 223037,
+    "pop2020": 215597,
+    "growth": "0.0345",
+    "density": 6707,
+    "aland_sqmi": "33.2530"
+  },
+  {
+    "rank": 107,
+    "name": "Hialeah",
+    "usps": "FL",
+    "pop2022": 222797,
+    "pop2020": 223109,
+    "growth": "-0.0014",
+    "density": 10324,
+    "aland_sqmi": "21.5810"
+  },
+  {
+    "rank": 108,
+    "name": "Huntsville",
+    "usps": "AL",
+    "pop2022": 221986,
+    "pop2020": 215006,
+    "growth": "0.0325",
+    "density": 1036,
+    "aland_sqmi": "214.3630"
+  },
+  {
+    "rank": 109,
+    "name": "Modesto",
+    "usps": "CA",
+    "pop2022": 221924,
+    "pop2020": 218464,
+    "growth": "0.0158",
+    "density": 5164,
+    "aland_sqmi": "42.9770"
+  },
+  {
+    "rank": 110,
+    "name": "Frisco",
+    "usps": "TX",
+    "pop2022": 217213,
+    "pop2020": 200509,
+    "growth": "0.0833",
+    "density": 3188,
+    "aland_sqmi": "68.1250"
+  },
+  {
+    "rank": 111,
+    "name": "Des Moines",
+    "usps": "IA",
+    "pop2022": 216273,
+    "pop2020": 214133,
+    "growth": "0.0100",
+    "density": 2453,
+    "aland_sqmi": "88.1800"
+  },
+  {
+    "rank": 112,
+    "name": "Yonkers",
+    "usps": "NY",
+    "pop2022": 214687,
+    "pop2020": 211569,
+    "growth": "0.0147",
+    "density": 11919,
+    "aland_sqmi": "18.0120"
+  },
+  {
+    "rank": 113,
+    "name": "Port St. Lucie",
+    "usps": "FL",
+    "pop2022": 212901,
+    "pop2020": 204851,
+    "growth": "0.0393",
+    "density": 1786,
+    "aland_sqmi": "119.2020"
+  },
+  {
+    "rank": 114,
+    "name": "Moreno Valley",
+    "usps": "CA",
+    "pop2022": 211688,
+    "pop2020": 208634,
+    "growth": "0.0146",
+    "density": 4130,
+    "aland_sqmi": "51.2570"
+  },
+  {
+    "rank": 115,
+    "name": "Worcester",
+    "usps": "MA",
+    "pop2022": 211612,
+    "pop2020": 206518,
+    "growth": "0.0247",
+    "density": 5664,
+    "aland_sqmi": "37.3600"
+  },
+  {
+    "rank": 116,
+    "name": "Rochester",
+    "usps": "NY",
+    "pop2022": 211480,
+    "pop2020": 211328,
+    "growth": "0.0007",
+    "density": 5913,
+    "aland_sqmi": "35.7660"
+  },
+  {
+    "rank": 117,
+    "name": "Fontana",
+    "usps": "CA",
+    "pop2022": 210857,
+    "pop2020": 208393,
+    "growth": "0.0118",
+    "density": 4895,
+    "aland_sqmi": "43.0720"
+  },
+  {
+    "rank": 118,
+    "name": "Columbus",
+    "usps": "GA",
+    "pop2022": 210330,
+    "pop2020": 206922,
+    "growth": "0.0165",
+    "density": 972,
+    "aland_sqmi": "216.4790"
+  },
+  {
+    "rank": 119,
+    "name": "Fayetteville",
+    "usps": "NC",
+    "pop2022": 210089,
+    "pop2020": 208501,
+    "growth": "0.0076",
+    "density": 1421,
+    "aland_sqmi": "147.8470"
+  },
+  {
+    "rank": 120,
+    "name": "Sunrise Manor",
+    "usps": "NV",
+    "pop2022": 208868,
+    "pop2020": 205618,
+    "growth": "0.0158",
+    "density": 6258,
+    "aland_sqmi": "33.3760"
+  },
+  {
+    "rank": 121,
+    "name": "McKinney",
+    "usps": "TX",
+    "pop2022": 208146,
+    "pop2020": 195308,
+    "growth": "0.0657",
+    "density": 3109,
+    "aland_sqmi": "66.9400"
+  },
+  {
+    "rank": 122,
+    "name": "Little Rock",
+    "usps": "AR",
+    "pop2022": 204405,
+    "pop2020": 202591,
+    "growth": "0.0090",
+    "density": 1703,
+    "aland_sqmi": "119.9920"
+  },
+  {
+    "rank": 123,
+    "name": "Augusta",
+    "usps": "GA",
+    "pop2022": 203329,
+    "pop2020": 202081,
+    "growth": "0.0062",
+    "density": 673,
+    "aland_sqmi": "302.2740"
+  },
+  {
+    "rank": 124,
+    "name": "Oxnard",
+    "usps": "CA",
+    "pop2022": 202895,
+    "pop2020": 202063,
+    "growth": "0.0041",
+    "density": 7648,
+    "aland_sqmi": "26.5280"
+  },
+  {
+    "rank": 125,
+    "name": "Salt Lake City",
+    "usps": "UT",
+    "pop2022": 202379,
+    "pop2020": 199723,
+    "growth": "0.0133",
+    "density": 1828,
+    "aland_sqmi": "110.6980"
+  },
+  {
+    "rank": 126,
+    "name": "Amarillo",
+    "usps": "TX",
+    "pop2022": 202333,
+    "pop2020": 200393,
+    "growth": "0.0097",
+    "density": 1989,
+    "aland_sqmi": "101.7440"
+  },
+  {
+    "rank": 127,
+    "name": "Overland Park",
+    "usps": "KS",
+    "pop2022": 202012,
+    "pop2020": 197238,
+    "growth": "0.0242",
+    "density": 2687,
+    "aland_sqmi": "75.1800"
+  },
+  {
+    "rank": 128,
+    "name": "Cape Coral",
+    "usps": "FL",
+    "pop2022": 201958,
+    "pop2020": 194016,
+    "growth": "0.0409",
+    "density": 1906,
+    "aland_sqmi": "105.9480"
+  },
+  {
+    "rank": 129,
+    "name": "Grand Rapids",
+    "usps": "MI",
+    "pop2022": 201093,
+    "pop2020": 198917,
+    "growth": "0.0109",
+    "density": 4493,
+    "aland_sqmi": "44.7560"
+  },
+  {
+    "rank": 130,
+    "name": "Huntington Beach",
+    "usps": "CA",
+    "pop2022": 200455,
+    "pop2020": 198711,
+    "growth": "0.0088",
+    "density": 7423,
+    "aland_sqmi": "27.0030"
+  },
+  {
+    "rank": 131,
+    "name": "Sioux Falls",
+    "usps": "SD",
+    "pop2022": 200243,
+    "pop2020": 192517,
+    "growth": "0.0401",
+    "density": 2560,
+    "aland_sqmi": "78.2290"
+  },
+  {
+    "rank": 132,
+    "name": "Grand Prairie",
+    "usps": "TX",
+    "pop2022": 200240,
+    "pop2020": 196100,
+    "growth": "0.0211",
+    "density": 2771,
+    "aland_sqmi": "72.2550"
+  },
+  {
+    "rank": 133,
+    "name": "Montgomery",
+    "usps": "AL",
+    "pop2022": 199571,
+    "pop2020": 200603,
+    "growth": "-0.0051",
+    "density": 1248,
+    "aland_sqmi": "159.8820"
+  },
+  {
+    "rank": 134,
+    "name": "Tallahassee",
+    "usps": "FL",
+    "pop2022": 199127,
+    "pop2020": 196169,
+    "growth": "0.0151",
+    "density": 1982,
+    "aland_sqmi": "100.4740"
+  },
+  {
+    "rank": 135,
+    "name": "Birmingham",
+    "usps": "AL",
+    "pop2022": 198433,
+    "pop2020": 200733,
+    "growth": "-0.0115",
+    "density": 1358,
+    "aland_sqmi": "146.0760"
+  },
+  {
+    "rank": 136,
+    "name": "Peoria",
+    "usps": "AZ",
+    "pop2022": 198369,
+    "pop2020": 190985,
+    "growth": "0.0387",
+    "density": 1127,
+    "aland_sqmi": "175.9890"
+  },
+  {
+    "rank": 137,
+    "name": "Glendale",
+    "usps": "CA",
+    "pop2022": 197507,
+    "pop2020": 196543,
+    "growth": "0.0049",
+    "density": 6482,
+    "aland_sqmi": "30.4710"
+  },
+  {
+    "rank": 138,
+    "name": "Vancouver",
+    "usps": "WA",
+    "pop2022": 196739,
+    "pop2020": 190915,
+    "growth": "0.0305",
+    "density": 4036,
+    "aland_sqmi": "48.7440"
+  },
+  {
+    "rank": 139,
+    "name": "Providence",
+    "usps": "RI",
+    "pop2022": 193512,
+    "pop2020": 190934,
+    "growth": "0.0135",
+    "density": 10514,
+    "aland_sqmi": "18.4060"
+  },
+  {
+    "rank": 140,
+    "name": "Knoxville",
+    "usps": "TN",
+    "pop2022": 193114,
+    "pop2020": 190740,
+    "growth": "0.0124",
+    "density": 1956,
+    "aland_sqmi": "98.7130"
+  },
+  {
+    "rank": 141,
+    "name": "Brownsville",
+    "usps": "TX",
+    "pop2022": 189082,
+    "pop2020": 186738,
+    "growth": "0.0126",
+    "density": 1429,
+    "aland_sqmi": "132.3220"
+  },
+  {
+    "rank": 142,
+    "name": "Akron",
+    "usps": "OH",
+    "pop2022": 188741,
+    "pop2020": 190469,
+    "growth": "-0.0091",
+    "density": 3048,
+    "aland_sqmi": "61.9330"
+  },
+  {
+    "rank": 143,
+    "name": "Newport News",
+    "usps": "VA",
+    "pop2022": 187353,
+    "pop2020": 186247,
+    "growth": "0.0059",
+    "density": 2716,
+    "aland_sqmi": "68.9920"
+  },
+  {
+    "rank": 144,
+    "name": "Fort Lauderdale",
+    "usps": "FL",
+    "pop2022": 186208,
+    "pop2020": 182760,
+    "growth": "0.0189",
+    "density": 5384,
+    "aland_sqmi": "34.5860"
+  },
+  {
+    "rank": 145,
+    "name": "Mobile",
+    "usps": "AL",
+    "pop2022": 185427,
+    "pop2020": 187041,
+    "growth": "-0.0086",
+    "density": 1330,
+    "aland_sqmi": "139.4650"
+  },
+  {
+    "rank": 146,
+    "name": "Shreveport",
+    "usps": "LA",
+    "pop2022": 185249,
+    "pop2020": 187593,
+    "growth": "-0.0125",
+    "density": 1725,
+    "aland_sqmi": "107.3610"
+  },
+  {
+    "rank": 147,
+    "name": "Paradise",
+    "usps": "NV",
+    "pop2022": 184852,
+    "pop2020": 191238,
+    "growth": "-0.0334",
+    "density": 3956,
+    "aland_sqmi": "46.7320"
+  },
+  {
+    "rank": 148,
+    "name": "Tempe",
+    "usps": "AZ",
+    "pop2022": 184361,
+    "pop2020": 180587,
+    "growth": "0.0209",
+    "density": 4612,
+    "aland_sqmi": "39.9770"
+  },
+  {
+    "rank": 149,
+    "name": "Chattanooga",
+    "usps": "TN",
+    "pop2022": 183783,
+    "pop2020": 181099,
+    "growth": "0.0148",
+    "density": 1286,
+    "aland_sqmi": "142.9630"
+  },
+  {
+    "rank": 150,
+    "name": "Cary",
+    "usps": "NC",
+    "pop2022": 182619,
+    "pop2020": 174721,
+    "growth": "0.0452",
+    "density": 3110,
+    "aland_sqmi": "58.7250"
+  },
+  {
+    "rank": 151,
+    "name": "Eugene",
+    "usps": "OR",
+    "pop2022": 180748,
+    "pop2020": 176654,
+    "growth": "0.0232",
+    "density": 4095,
+    "aland_sqmi": "44.1380"
+  },
+  {
+    "rank": 152,
+    "name": "Elk Grove",
+    "usps": "CA",
+    "pop2022": 180746,
+    "pop2020": 176124,
+    "growth": "0.0262",
+    "density": 4300,
+    "aland_sqmi": "42.0330"
+  },
+  {
+    "rank": 153,
+    "name": "Santa Rosa",
+    "usps": "CA",
+    "pop2022": 180189,
+    "pop2020": 178127,
+    "growth": "0.0116",
+    "density": 4238,
+    "aland_sqmi": "42.5190"
+  },
+  {
+    "rank": 154,
+    "name": "Salem",
+    "usps": "OR",
+    "pop2022": 179715,
+    "pop2020": 175535,
+    "growth": "0.0238",
+    "density": 3691,
+    "aland_sqmi": "48.6910"
+  },
+  {
+    "rank": 155,
+    "name": "Ontario",
+    "usps": "CA",
+    "pop2022": 177533,
+    "pop2020": 175265,
+    "growth": "0.0129",
+    "density": 3553,
+    "aland_sqmi": "49.9630"
+  },
+  {
+    "rank": 156,
+    "name": "Aurora",
+    "usps": "IL",
+    "pop2022": 177070,
+    "pop2020": 180542,
+    "growth": "-0.0192",
+    "density": 3934,
+    "aland_sqmi": "45.0090"
+  },
+  {
+    "rank": 157,
+    "name": "Lancaster",
+    "usps": "CA",
+    "pop2022": 176892,
+    "pop2020": 173516,
+    "growth": "0.0195",
+    "density": 1876,
+    "aland_sqmi": "94.2810"
+  },
+  {
+    "rank": 158,
+    "name": "Rancho Cucamonga",
+    "usps": "CA",
+    "pop2022": 176289,
+    "pop2020": 174453,
+    "growth": "0.0105",
+    "density": 4394,
+    "aland_sqmi": "40.1170"
+  },
+  {
+    "rank": 159,
+    "name": "Oceanside",
+    "usps": "CA",
+    "pop2022": 175464,
+    "pop2020": 174068,
+    "growth": "0.0080",
+    "density": 4253,
+    "aland_sqmi": "41.2560"
+  },
+  {
+    "rank": 160,
+    "name": "Fort Collins",
+    "usps": "CO",
+    "pop2022": 174974,
+    "pop2020": 169810,
+    "growth": "0.0304",
+    "density": 3060,
+    "aland_sqmi": "57.1820"
+  },
+  {
+    "rank": 161,
+    "name": "Pembroke Pines",
+    "usps": "FL",
+    "pop2022": 174464,
+    "pop2020": 171178,
+    "growth": "0.0192",
+    "density": 5340,
+    "aland_sqmi": "32.6730"
+  },
+  {
+    "rank": 162,
+    "name": "Clarksville",
+    "usps": "TN",
+    "pop2022": 173480,
+    "pop2020": 166722,
+    "growth": "0.0405",
+    "density": 1756,
+    "aland_sqmi": "98.7960"
+  },
+  {
+    "rank": 163,
+    "name": "Palmdale",
+    "usps": "CA",
+    "pop2022": 172790,
+    "pop2020": 169450,
+    "growth": "0.0197",
+    "density": 1629,
+    "aland_sqmi": "106.0760"
+  },
+  {
+    "rank": 164,
+    "name": "Garden Grove",
+    "usps": "CA",
+    "pop2022": 172163,
+    "pop2020": 171949,
+    "growth": "0.0012",
+    "density": 9588,
+    "aland_sqmi": "17.9570"
+  },
+  {
+    "rank": 165,
+    "name": "Springfield",
+    "usps": "MO",
+    "pop2022": 171112,
+    "pop2020": 169176,
+    "growth": "0.0114",
+    "density": 2077,
+    "aland_sqmi": "82.3920"
+  },
+  {
+    "rank": 166,
+    "name": "Hayward",
+    "usps": "CA",
+    "pop2022": 166708,
+    "pop2020": 162954,
+    "growth": "0.0230",
+    "density": 3661,
+    "aland_sqmi": "45.5370"
+  },
+  {
+    "rank": 167,
+    "name": "Salinas",
+    "usps": "CA",
+    "pop2022": 166162,
+    "pop2020": 163542,
+    "growth": "0.0160",
+    "density": 7092,
+    "aland_sqmi": "23.4280"
+  },
+  {
+    "rank": 168,
+    "name": "Alexandria",
+    "usps": "VA",
+    "pop2022": 163367,
+    "pop2020": 159467,
+    "growth": "0.0245",
+    "density": 10939,
+    "aland_sqmi": "14.9340"
+  },
+  {
+    "rank": 169,
+    "name": "Paterson",
+    "usps": "NJ",
+    "pop2022": 162438,
+    "pop2020": 159732,
+    "growth": "0.0169",
+    "density": 19308,
+    "aland_sqmi": "8.4130"
+  },
+  {
+    "rank": 170,
+    "name": "Murfreesboro",
+    "usps": "TN",
+    "pop2022": 161571,
+    "pop2020": 152769,
+    "growth": "0.0576",
+    "density": 2618,
+    "aland_sqmi": "61.7090"
+  },
+  {
+    "rank": 171,
+    "name": "Bayamon",
+    "usps": "PR",
+    "pop2022": 161242,
+    "pop2020": 165368,
+    "growth": "-0.0250",
+    "density": 5977,
+    "aland_sqmi": "26.9780"
+  },
+  {
+    "rank": 172,
+    "name": "Sunnyvale",
+    "usps": "CA",
+    "pop2022": 158949,
+    "pop2020": 155805,
+    "growth": "0.0202",
+    "density": 7215,
+    "aland_sqmi": "22.0300"
+  },
+  {
+    "rank": 173,
+    "name": "Kansas City",
+    "usps": "KS",
+    "pop2022": 158771,
+    "pop2020": 156607,
+    "growth": "0.0138",
+    "density": 1272,
+    "aland_sqmi": "124.8150"
+  },
+  {
+    "rank": 174,
+    "name": "Lakewood",
+    "usps": "CO",
+    "pop2022": 158584,
+    "pop2020": 155984,
+    "growth": "0.0167",
+    "density": 3684,
+    "aland_sqmi": "43.0470"
+  },
+  {
+    "rank": 175,
+    "name": "Killeen",
+    "usps": "TX",
+    "pop2022": 158129,
+    "pop2020": 153095,
+    "growth": "0.0329",
+    "density": 2899,
+    "aland_sqmi": "54.5450"
+  },
+  {
+    "rank": 176,
+    "name": "Corona",
+    "usps": "CA",
+    "pop2022": 158088,
+    "pop2020": 157136,
+    "growth": "0.0061",
+    "density": 3954,
+    "aland_sqmi": "39.9860"
+  },
+  {
+    "rank": 177,
+    "name": "Bellevue",
+    "usps": "WA",
+    "pop2022": 157752,
+    "pop2020": 151854,
+    "growth": "0.0388",
+    "density": 4715,
+    "aland_sqmi": "33.4610"
+  },
+  {
+    "rank": 178,
+    "name": "Springfield",
+    "usps": "MA",
+    "pop2022": 156503,
+    "pop2020": 155929,
+    "growth": "0.0037",
+    "density": 4911,
+    "aland_sqmi": "31.8690"
+  },
+  {
+    "rank": 179,
+    "name": "Charleston",
+    "usps": "SC",
+    "pop2022": 156255,
+    "pop2020": 150227,
+    "growth": "0.0401",
+    "density": 1413,
+    "aland_sqmi": "110.5540"
+  },
+  {
+    "rank": 180,
+    "name": "Hollywood",
+    "usps": "FL",
+    "pop2022": 155527,
+    "pop2020": 153067,
+    "growth": "0.0161",
+    "density": 5703,
+    "aland_sqmi": "27.2690"
+  },
+  {
+    "rank": 181,
+    "name": "Roseville",
+    "usps": "CA",
+    "pop2022": 153569,
+    "pop2020": 147773,
+    "growth": "0.0392",
+    "density": 3484,
+    "aland_sqmi": "44.0790"
+  },
+  {
+    "rank": 182,
+    "name": "Pasadena",
+    "usps": "TX",
+    "pop2022": 152532,
+    "pop2020": 151950,
+    "growth": "0.0038",
+    "density": 3500,
+    "aland_sqmi": "43.5860"
+  },
+  {
+    "rank": 183,
+    "name": "Escondido",
+    "usps": "CA",
+    "pop2022": 152464,
+    "pop2020": 151038,
+    "growth": "0.0094",
+    "density": 4086,
+    "aland_sqmi": "37.3140"
+  },
+  {
+    "rank": 184,
+    "name": "Pomona",
+    "usps": "CA",
+    "pop2022": 152245,
+    "pop2020": 151713,
+    "growth": "0.0035",
+    "density": 6625,
+    "aland_sqmi": "22.9820"
+  },
+  {
+    "rank": 185,
+    "name": "Mesquite",
+    "usps": "TX",
+    "pop2022": 152164,
+    "pop2020": 150108,
+    "growth": "0.0137",
+    "density": 3220,
+    "aland_sqmi": "47.2520"
+  },
+  {
+    "rank": 186,
+    "name": "Naperville",
+    "usps": "IL",
+    "pop2022": 151078,
+    "pop2020": 149540,
+    "growth": "0.0103",
+    "density": 3893,
+    "aland_sqmi": "38.8110"
+  },
+  {
+    "rank": 187,
+    "name": "Joliet",
+    "usps": "IL",
+    "pop2022": 150948,
+    "pop2020": 150362,
+    "growth": "0.0039",
+    "density": 2353,
+    "aland_sqmi": "64.1520"
+  },
+  {
+    "rank": 188,
+    "name": "Savannah",
+    "usps": "GA",
+    "pop2022": 150078,
+    "pop2020": 147780,
+    "growth": "0.0156",
+    "density": 1444,
+    "aland_sqmi": "103.9100"
+  },
+  {
+    "rank": 189,
+    "name": "Jackson",
+    "usps": "MS",
+    "pop2022": 149739,
+    "pop2020": 153701,
+    "growth": "-0.0258",
+    "density": 1348,
+    "aland_sqmi": "111.0860"
+  },
+  {
+    "rank": 190,
+    "name": "Bridgeport",
+    "usps": "CT",
+    "pop2022": 149538,
+    "pop2020": 148654,
+    "growth": "0.0059",
+    "density": 9309,
+    "aland_sqmi": "16.0640"
+  },
+  {
+    "rank": 191,
+    "name": "Syracuse",
+    "usps": "NY",
+    "pop2022": 149310,
+    "pop2020": 148620,
+    "growth": "0.0046",
+    "density": 5965,
+    "aland_sqmi": "25.0300"
+  },
+  {
+    "rank": 192,
+    "name": "Surprise",
+    "usps": "AZ",
+    "pop2022": 148274,
+    "pop2020": 143148,
+    "growth": "0.0358",
+    "density": 1372,
+    "aland_sqmi": "108.0630"
+  },
+  {
+    "rank": 193,
+    "name": "Rockford",
+    "usps": "IL",
+    "pop2022": 147811,
+    "pop2020": 148655,
+    "growth": "-0.0057",
+    "density": 2296,
+    "aland_sqmi": "64.3790"
+  },
+  {
+    "rank": 194,
+    "name": "Torrance",
+    "usps": "CA",
+    "pop2022": 147393,
+    "pop2020": 147067,
+    "growth": "0.0022",
+    "density": 7183,
+    "aland_sqmi": "20.5210"
+  },
+  {
+    "rank": 195,
+    "name": "Thornton",
+    "usps": "CO",
+    "pop2022": 146487,
+    "pop2020": 141867,
+    "growth": "0.0326",
+    "density": 4081,
+    "aland_sqmi": "35.8910"
+  },
+  {
+    "rank": 196,
+    "name": "Kent",
+    "usps": "WA",
+    "pop2022": 145424,
+    "pop2020": 136588,
+    "growth": "0.0647",
+    "density": 4309,
+    "aland_sqmi": "33.7500"
+  },
+  {
+    "rank": 197,
+    "name": "Fullerton",
+    "usps": "CA",
+    "pop2022": 145309,
+    "pop2020": 143617,
+    "growth": "0.0118",
+    "density": 6478,
+    "aland_sqmi": "22.4310"
+  },
+  {
+    "rank": 198,
+    "name": "Denton",
+    "usps": "TX",
+    "pop2022": 145167,
+    "pop2020": 139869,
+    "growth": "0.0379",
+    "density": 1508,
+    "aland_sqmi": "96.2360"
+  },
+  {
+    "rank": 199,
+    "name": "Visalia",
+    "usps": "CA",
+    "pop2022": 144772,
+    "pop2020": 141384,
+    "growth": "0.0240",
+    "density": 3817,
+    "aland_sqmi": "37.9240"
+  },
+  {
+    "rank": 200,
+    "name": "McAllen",
+    "usps": "TX",
+    "pop2022": 144676,
+    "pop2020": 142210,
+    "growth": "0.0173",
+    "density": 2202,
+    "aland_sqmi": "65.6980"
+  }
+]
