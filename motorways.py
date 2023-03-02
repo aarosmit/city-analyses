@@ -78,7 +78,7 @@ while i < len(cities_us):
     i += 1
 
 # WRITE TO US GEOJSON FILE
-with open(f"results/motorways_us_{datetime}.json", 'w') as outfile:
+with open(f"geojsons/motorways_us_{datetime}.json", 'w') as outfile:
     json.dump(geojsonUS, outfile)
 
 geojsonEU = {
@@ -99,7 +99,10 @@ while i < len(cities_eu):
     popEU += cities_eu[i]['pop']
 
     # QUERY OVERPASS
-    result = overpass.query(f"way(around:1609,{lat},{lon})['highway'='motorway']['tunnel'!~'yes'];out geom;way(around:1609,{lat},{lon})['highway'='motorway_link']['tunnel'!~'yes'];out geom;")
+    try:
+        result = overpass.query(f"way(around:1609,{lat},{lon})['highway'='motorway']['tunnel'!~'yes'];out geom;way(around:1609,{lat},{lon})['highway'='motorway_link']['tunnel'!~'yes'];out geom;")
+    except:
+        print("Could not request data")
     
     # DEFINE VARS FOR LOOPING THROUGH INDIVIDUAL FEATURES
     j = 0
@@ -120,7 +123,7 @@ while i < len(cities_eu):
     except:
         print("Could not get parking geometry")
 
-    # CALCULATING PARKING PER 100K POP
+    # CALCULATING LANE-FEET PER PERSON
     lanefeet_per_pop = lanemiles * 5280 / cities_eu[i]['pop']
 
     lanemilesEU += lanemiles
@@ -131,7 +134,7 @@ while i < len(cities_eu):
     i += 1
 
 # WRITE TO EU GEOJSON FILE
-with open(f"results/motorways_eu_{datetime}.json", 'w') as outfile:
+with open(f"geojsons/motorways_eu_{datetime}.json", 'w') as outfile:
     json.dump(geojsonEU, outfile)
 
 data.close()
