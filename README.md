@@ -11,7 +11,7 @@ Most of my analyses look at things on a national level, with each city being a d
 ## Existing analyses
 
 | Category | Date performed | Results | Details |
-| --- | --- | --- | --- |
+| -------- | :------------: | ------- | ------- |
 | Surface parking (US vs EU) | 2023-03-02 | [Tableau chart](https://public.tableau.com/views/CItyparking/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/parking_20230302T152521Z.csv) | Within one mile of city centers |
 | Highways/motorways (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Cityhighways/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/motorways_20230228T200310Z.csv) | Within one mile of city centers |
 | Grocery stores (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Citygrocerystores/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/groceries_20230228T183627Z.csv) | Within two miles of city centers |
