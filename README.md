@@ -1,6 +1,6 @@
-# OpenStreetMap analyses
+# City analyses
 
-This repository serves as a reference and guide to my analyses of features within the OpenStreetMap database. 
+This repository serves as a reference and guide to my analyses of features within Cities (primarily using the OpenStreetMap database). 
 
 ## Purpose
 
