@@ -16,6 +16,10 @@ Most of my analyses look at things on a national level, with each city being a d
 | Highways/motorways (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Cityhighways/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/motorways_20230228T200310Z.csv) | Within one mile of city centers (features may extend outside of one mile radius); [Example of Kansas City (Overpass Turbo)](https://overpass-turbo.eu/s/1tGx) |
 | Grocery stores (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Citygrocerystores/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/groceries_20230228T183627Z.csv) | Within two miles of city centers; [Example of Barcelona (Overpass Turbo)](https://overpass-turbo.eu/s/1tGt) |
 
+## Future analyses
+
+If you'd like to see other analyses performed, please submit an ["issue"](https://github.com/aarosmit/city-analyses/issues) in this repository and tag it with the "request" label!
+
 ## Attributions
 
 [**OpenStreetMap**](https://www.openstreetmap.org) is the source of all of the queried data.
