@@ -1,6 +1,6 @@
 # City analyses
 
-This repository serves as a reference and guide to my analyses of features within Cities (primarily using the OpenStreetMap database). 
+This repository serves as a reference and guide to my analyses of features within cities (primarily using the OpenStreetMap database). 
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Most of my analyses look at things on a national level, with each city being a d
 | Category | Date performed | Results | Details |
 | -------- | :------------: | ------- | ------- |
 | Surface parking (US vs EU) | 2023-03-02 | [Tableau chart](https://public.tableau.com/views/Cityparking/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/parking_20230302T152521Z.csv) | Within one mile of city centers; [Overpass Turbo example](https://overpass-turbo.eu/s/1tGp) |
-| Highways/motorways (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Cityhighways/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/motorways_20230228T200310Z.csv) | Within one mile of city centers; [Overpass Turbo example](https://overpass-turbo.eu/s/1tGr) |
+| Highways/motorways (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Cityhighways/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/motorways_20230228T200310Z.csv) | Within one mile of city centers; [Overpass Turbo example](https://overpass-turbo.eu/s/1tGx) |
 | Grocery stores (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Citygrocerystores/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/groceries_20230228T183627Z.csv) | Within two miles of city centers; [Overpass Turbo example](https://overpass-turbo.eu/s/1tGt) |
 
 ## Attributions
