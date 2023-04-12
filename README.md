@@ -6,7 +6,7 @@ This repository serves as a reference and guide to my analyses of features withi
 
 The main purpose of these analyses are to point out the glaring flaws with American cities and their associated fragility. My goal is to further the message of [Strong Towns](https://www.strongtowns.org/about) and help create more resilient communities across America.
 
-Most of my analyses look at things on a national level, with each city being a data point. But for each data point there is a community that is in need of support, so [please get involved in yours](https://www.strongtowns.org/local).
+Most of my analyses look at things on a national level, with each city being a data point. But for each data point there is a community that is in need of support, so [get involved in yours](https://www.strongtowns.org/local).
 
 ## Existing analyses
 
@@ -16,7 +16,7 @@ Most of my analyses look at things on a national level, with each city being a d
 | Highways/motorways (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Cityhighways/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/motorways_20230228T200310Z.csv) | Within one mile of city centers |
 | Grocery stores (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Citygrocerystores/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/groceries_20230228T183627Z.csv) | Within two miles of city centers |
 
-## Data sources
+## Attributions
 
 [**OpenStreetMap**](https://www.openstreetmap.org) is the source of all of the queried data.
 
