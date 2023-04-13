@@ -10,15 +10,15 @@ Most of my analyses look at things on a national level, with each city being a d
 
 ## Existing analyses
 
-| Category | Date performed | Results | Details |
-| -------- | :------------: | ------- | ------- |
-| Surface parking (US vs EU) | 2023-03-02 | [Tableau chart](https://public.tableau.com/views/CItyparking/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/parking_20230302T152521Z.csv) | Within one mile of city centers; [Example of Chattanooga (Overpass Turbo)](https://overpass-turbo.eu/s/1tGz) |
-| Highways/motorways (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Cityhighways/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/motorways_20230228T200310Z.csv) | Within one mile of city centers (features may extend outside of one mile radius); [Example of Kansas City (Overpass Turbo)](https://overpass-turbo.eu/s/1tGx) |
-| Grocery stores (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Citygrocerystores/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/groceries_20230228T183627Z.csv) | Within two miles of city centers; [Example of Barcelona (Overpass Turbo)](https://overpass-turbo.eu/s/1tGt) |
+| Category | Date performed | Results | US rate | EU rate | Multiplier | Details |
+| -------- | :------------: | ------- | :-----: | :-----: | :-----: | ------- |
+| Surface parking (US vs EU) | 2023-03-02 | [Tableau chart](https://public.tableau.com/views/CItyparking/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/parking_20230302T152521Z.csv) | 8.3 sq-ft/person | 2.3 sq-ft/person | US has 3.6x more | Within one mile of city centers; [Example of Chattanooga (Overpass Turbo)](https://overpass-turbo.eu/s/1tGz) |
+| Highways/motorways (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Cityhighways/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/motorways_20230228T200310Z.csv) | 4.2 lane-miles per 100k | 0.14 lane-miles per 100k | US has 30x more | Within one mile of city centers (features may extend outside of one mile radius); [Example of Kansas City (Overpass Turbo)](https://overpass-turbo.eu/s/1tGx) |
+| Grocery stores (US vs EU) | 2023-02-28 | [Tableau chart](https://public.tableau.com/views/Citygrocerystores/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/groceries_20230228T183627Z.csv) | 2.2 groceries per 100k | 16.6 groceries per 100k | EU has 7.5x more | Within two miles of city centers; [Example of Barcelona (Overpass Turbo)](https://overpass-turbo.eu/s/1tGt) |
 
 ## Future analyses
 
-If you'd like to see other analyses performed, please submit an ["issue"](https://github.com/aarosmit/city-analyses/issues) in this repository and tag it with the "request" label!
+If you'd like to see other analyses performed, please submit an [Issue](https://github.com/aarosmit/city-analyses/issues) in this repository and tag it with the "request" label!
 
 ## Attributions
 
