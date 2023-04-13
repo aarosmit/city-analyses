@@ -10,6 +10,13 @@ Most of my analyses look at things on a national level, with each city being a d
 
 ## Existing analyses
 
+These analyses make use of the following city population sources:
+
+- [List of cities in the European Union by population within city limits](https://en.wikipedia.org/wiki/List_of_cities_in_the_European_Union_by_population_within_city_limits)
+  - 176 of the most populous US cities, minimum population of 150,000 within the city limits
+- [List of United States cities by population](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population) 
+  - 94 of the most populous EU cities, minimum population of 300,000 within the city limits
+
 | Category | Date performed | Results | US rate | EU rate | Multiplier | Details |
 | -------- | :------------: | ------- | :-----: | :-----: | :-----: | ------- |
 | Surface parking (US vs EU) | 2023-03-02 | [Tableau chart](https://public.tableau.com/views/CItyparking/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link), [raw data](results/parking_20230302T152521Z.csv) | 8.3 sq-ft/person | 2.3 sq-ft/person | US has 3.6x more | Within one mile of city centers; [Example of Chattanooga (Overpass Turbo)](https://overpass-turbo.eu/s/1tGz) |
