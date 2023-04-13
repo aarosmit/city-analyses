@@ -1,13 +1,10 @@
-# from OSMPythonTools.nominatim import Nominatim
-# nominatim = Nominatim(waitBetweenQueries=2)
-from OSMPythonTools.overpass import Overpass
-overpass = Overpass()
 # from geojson_length import calculate_distance, Unit
 # from geojson import Feature, LineString
 # from area import area
 import json
 import csv
 import datetime
+import requests
 
 # GET CURRENT DATETIME
 datetime = datetime.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
@@ -45,7 +42,8 @@ while i < len(cities_us):
 
     # QUERY OVERPASS
     try:
-        result = overpass.query(f"node(around:3218,{lat},{lon})['shop'='supermarket']; out geom; way(around:3218,{lat},{lon})['shop'='supermarket']; out geom; relation(around:3218,{lat},{lon})['shop'='supermarket']; out geom; node(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; way(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; relation(around:3218,{lat},{lon})['shop'='greengrocer']; out geom;")
+        response = requests.get(f"https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];node(around:3218,{lat},{lon})['shop'='supermarket']; out geom; way(around:3218,{lat},{lon})['shop'='supermarket']; out geom; relation(around:3218,{lat},{lon})['shop'='supermarket']; out geom; node(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; way(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; relation(around:3218,{lat},{lon})['shop'='greengrocer']; out geom;")
+        result = response.json()
     except:
         print("Could not request data")
 
@@ -54,9 +52,10 @@ while i < len(cities_us):
     groceries = 0
 
     # LOOPING THROUGH INDIVIDUAL FEATURES
-    while j < len(result.elements()):
+    while j < len(result['elements']):
         try:
-            geojsonUS['coordinates'].append(result.elements()[j].geometry()['coordinates'])
+            # DOES NOT WORK WITH NEW REQUEST METHOD
+            # geojsonUS['coordinates'].append(result['elements'][j]['geometry']['coordinates'])
             groceries += 1
             groceriesUS += 1
             j += 1
@@ -70,7 +69,7 @@ while i < len(cities_us):
     i += 1
 
 # # WRITE TO US GEOJSON FILE
-# with open(f"results/groceries_us_{datetime}.json", 'w') as outfile:
+# with open(f"geojsons/groceries_us_{datetime}.json", 'w') as outfile:
 #     json.dump(geojsonUS, outfile)
 
 geojsonEU = {
@@ -92,7 +91,8 @@ while i < len(cities_eu):
 
     # QUERY OVERPASS
     try:
-        result = overpass.query(f"node(around:3218,{lat},{lon})['shop'='supermarket']; out geom; way(around:3218,{lat},{lon})['shop'='supermarket']; out geom; relation(around:3218,{lat},{lon})['shop'='supermarket']; out geom; node(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; way(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; relation(around:3218,{lat},{lon})['shop'='greengrocer']; out geom;")
+        response = requests.get(f"https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];node(around:3218,{lat},{lon})['shop'='supermarket']; out geom; way(around:3218,{lat},{lon})['shop'='supermarket']; out geom; relation(around:3218,{lat},{lon})['shop'='supermarket']; out geom; node(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; way(around:3218,{lat},{lon})['shop'='greengrocer']; out geom; relation(around:3218,{lat},{lon})['shop'='greengrocer']; out geom;")
+        result = response.json()
     except:
         print("Could not request data")
     
@@ -102,8 +102,9 @@ while i < len(cities_eu):
 
     # LOOPING THROUGH INDIVIDUAL FEATURES
     try:
-        while j < len(result.elements()):
-            geojsonEU['coordinates'].append(result.elements()[j].geometry()['coordinates'])
+        while j < len(result['elements']):
+            # DOES NOT WORK WITH NEW REQUEST METHOD
+            # geojsonEU['coordinates'].append(result.elements()[j].geometry()['coordinates'])
             groceries += 1
             groceriesEU += 1
             j += 1
@@ -116,7 +117,7 @@ while i < len(cities_eu):
     i += 1
 
 # # WRITE TO EU GEOJSON FILE
-# with open(f"results/groceries_eu_{datetime}.json", 'w') as outfile:
+# with open(f"geojsons/groceries_eu_{datetime}.json", 'w') as outfile:
 #     json.dump(geojsonEU, outfile)
 
 data.close()
