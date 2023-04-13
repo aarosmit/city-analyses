@@ -39,3 +39,7 @@ The current city lists / population data used in this repository are from Wikipe
   - 176 of the most populous US cities, minimum population of 150,000 within the city limits
 
 The scripts are written in Python and heavily utilize the package [OSMPythonTools](https://github.com/mocnik-science/osm-python-tools) which provides access to the [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API).
+
+## Disclaimers
+
+The accuracy of these analyses are dependent on the accuracy of my Python scripts and queries to the Overpass API that gather and tabulate the data from the OpenStreetMap database. Additionally, the accuracy is dependent on the quality of data within the OpenStreetMap database. If you see an error or something you think doesn't look quite right, please submit an [Issue](https://github.com/aarosmit/city-analyses/issues).
